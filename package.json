@@ -1,5 +1,5 @@
 {
-  "name": "tracker",
+  "name": "ground-example",
   "version": "0.0.1",
   "description": "Minimal tool to demonstrate satellite tracking in JS.",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "nodemon server.js"
   },
   "author": "Roland Turner",
-  "license": "GPL-3.0",
+  "license": "LGPL-3.0-or-later",
   "devDependencies": {
     "nodemon": "^1.19.1"
   },
